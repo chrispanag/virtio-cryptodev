@@ -1,0 +1,8 @@
+*.cmd
+*.o
+.tmp_versions
+*.ko
+test_crypto
+test_fork_crypto
+*.symvers
+*.order
